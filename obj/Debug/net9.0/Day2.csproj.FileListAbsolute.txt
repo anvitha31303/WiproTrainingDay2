@@ -12,3 +12,4 @@ C:\Users\hp\OneDrive\Desktop\wiprotraining\Day2\obj\Debug\net9.0\refint\Day2.dll
 C:\Users\hp\OneDrive\Desktop\wiprotraining\Day2\obj\Debug\net9.0\Day2.pdb
 C:\Users\hp\OneDrive\Desktop\wiprotraining\Day2\obj\Debug\net9.0\Day2.genruntimeconfig.cache
 C:\Users\hp\OneDrive\Desktop\wiprotraining\Day2\obj\Debug\net9.0\ref\Day2.dll
+C:\Users\hp\OneDrive\Desktop\wiprotraining\Day2\obj\Debug\net9.0\Day2.sourcelink.json
